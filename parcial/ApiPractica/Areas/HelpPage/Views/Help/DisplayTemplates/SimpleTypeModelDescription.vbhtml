@@ -1,0 +1,3 @@
+@Imports ApiPractica.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
